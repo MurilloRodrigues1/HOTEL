@@ -52,5 +52,7 @@ python manage.py startapp "outro nome para projeto"
 python manage.py runserver
 ```
 ___
+
+# CÓDIGOS IMPORTANTES
  
  
