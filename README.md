@@ -26,8 +26,8 @@ Criar (pasta) template - Criar Rota (View) - Configurar media e static - Configu
 Rodar as migrações - Criar Modal - Criar Rota - Config Url - Rota Migração.  
 Com isso seguimos o resto do dia configurando o Django, porque é uma parte trabalhosa, por isso o apoio do professor é necessário._
 
-Acreditamos que a parte mais importante da preparação do "ambiente" são os comandos setados para criar de maneira correta o django:  
-_INICIANDO O AMBIENTE VIRTUAL_
+Acreditamos que a parte mais importante da preparação do "ambiente" são os comandos setados para criar de maneira correta o django:    
+###  _INICIANDO O AMBIENTE VIRTUAL_ 🔧
 ```
 python -m venv venv
 ```
@@ -54,7 +54,10 @@ python manage.py runserver
 ___
 
 ### 21/05
-  _Demos continuidade a parte principal, porém, permanecemos com a ajuda do professor, ainda estamos na etapa de configurar o sistema, como definir quem é o adm, nessa aula o foco é confugurar e preparar o código que vai dar auxilío para as pessoas reservarem os quartos, de maneira resumida, conseguimos configurar qual quarto o cliente vai querer, e também mostramos, se o quarto está reservado ou disponível._
+_Demos continuidade à parte principal do projeto, ainda com o apoio do professor. Estamos na etapa de configuração do sistema, incluindo a definição de quem será o administrador. Nesta aula, o foco foi configurar e preparar o código responsável por auxiliar os usuários na reserva dos quartos. De forma resumida, conseguimos implementar a seleção do quarto desejado pelo cliente, além de exibir se o quarto está reservado ou disponível. Aproveitamos também para definir o preço de cada quarto disponível no sistema._
+
+
+
   
  
  
