@@ -47,7 +47,25 @@ python manage.py runserver
 ```
 ___
 ## INICIANDO UM PROJETO DJANGO
+1. Executar o comando para iniciar um projeto
+```
+django-admin startproject teste01
+```
+2. Abrir a pasta teste01 no terminal do projeto, executando o comando:
+```
+cd teste01
+```
+3. Executar o runserver:
+```
+python manage.py runserver
+```
+Vamos revisar a estrutura do nosso projeto. Assim que criarmos nosso projeto, teremos o arquivo **`manage.py`** e a pasta com o mesmo nome do projeto, além dos demais arquivos.
 
+Dentro dessa pasta, teremos o arquivo **`__init__.py`**, que estará vazio. Esse arquivo indica para o Python que essa pasta **`teste01`** faz parte de um módulo Python.
+
+Os arquivos **`asgi.py`** e **`wsgi.py`** são os arquivos de configuração que, quando colocarmos o site em um servidor, o servidor saberá como lidar com esse projeto. Utilizaremos esses arquivos apenas no momento de fazer o **deploy** do projeto.
+
+No arquivo **`urls.py`**, é onde definiremos os links, os endereços das páginas do nosso site. Já o **`settings.py`** é onde iremos de fato configurar o projeto. É dentro desse arquivo que definiremos as configurações e as informações essenciais para o nosso site funcionar corretamente. 
 
 
 
