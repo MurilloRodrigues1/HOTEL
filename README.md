@@ -6,7 +6,7 @@ _Este é um sistema de gerenciamento de hotel desenvolvido com Django. Ele permi
 >  
 > Daniel Fonseca Monteiro - N° 05
 >  
-> Daniel Amaral Santos - N° 07
+> Daniele Amaral Santos - N° 07
 > 
 > Matheus Vinicius Gatto - N° 25
 > 
