@@ -20,14 +20,7 @@ ___
 ___
 
 ### 07/05  
-  _O projeto começou com o professor dando ajuda com o passo a passo para preparar o django, o professor usou as etapas passadas na ultima aula que consistia em:  
-Ambiente Virtual - Instalar o Django - Criar o projeto Django - Criar o App - Configurar o settings - Configurar a Url’s(App) -  
-
-Criar (pasta) template - Criar Rota (View) - Configurar media e static - Configuração do Settings - Configuração do SUPER USER -  
-
-Rodar as migrações - Criar Modal - Criar Rota - Config Url - Rota Migração.  
-
-Com isso seguimos o resto do dia configurando o Django, porque é uma parte trabalhosa, por isso o apoio do professor é necessário, acreditamos que a parte mais importante da preparação do "ambiente" são os comandos setados para criar de maneira correta o django:    
+  _O projeto começou com o professor dando ajuda com o passo a passo para preparar o django, o professor usou as etapas passadas na ultima aula, com isso seguimos o resto do dia configurando o Django, porque é uma parte trabalhosa, por isso o apoio do professor é necessário, acreditamos que a parte mais importante da preparação do "ambiente" são os comandos setados para criar de maneira correta o django:    
 ###  _INICIANDO O AMBIENTE VIRTUAL_ 🔧
 ```
 python -m venv venv
@@ -53,6 +46,10 @@ python manage.py startapp "outro nome para projeto"
 python manage.py runserver
 ```
 ___
+## INICIANDO UM PROJETO DJANGO
+
+
+
 
 ### 21/05
 _Demos continuidade à parte principal do projeto, ainda com o apoio do professor. Estamos na etapa de configuração do sistema, incluindo a definição de quem será o administrador. Nesta aula, o foco foi configurar e preparar o código responsável por auxiliar os usuários na reserva dos quartos. De forma resumida, conseguimos implementar a seleção do quarto desejado pelo cliente, além de exibir se o quarto está reservado ou disponível. Aproveitamos também para definir o preço de cada quarto disponível no sistema._
