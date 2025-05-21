@@ -1,4 +1,6 @@
-1. Ambiente Virtual
+# ETAPAS PARA PREPARAR O DJANGO
+
+_1. Ambiente Virtual
 2. Instalar o Framework Django
 3. Criar o projeto Django
 4. Criar o App
@@ -11,4 +13,4 @@
 11. Configurar o settings
 12. Configurar um super user
 13. Rodar as migrações
-14. **criar uma modal
+14. **criar uma modal_
