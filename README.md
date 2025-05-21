@@ -53,6 +53,8 @@ python manage.py runserver
 ```
 ___
 
-# CÓDIGOS IMPORTANTES
+### 21/05
+  _Demos continuidade a parte principal, porém, permanecemos com a ajuda do professor, ainda estamos na etapa de configurar o sistema, como definir quem é o adm, nessa aula o foco é confugurar e preparar o código que vai dar auxilío para as pessoas reservarem os quartos, de maneira resumida, conseguimos configurar qual quarto o cliente vai querer, e também mostramos, se o quarto está reservado ou disponível._
+  
  
  
