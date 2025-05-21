@@ -21,7 +21,7 @@ ___
 
 ## 07/05  
   _O projeto começou com o professor dando ajuda com o passo a passo para preparar o django, o professor usou as etapas passadas na ultima aula, com isso seguimos o resto do dia configurando o Django, porque é uma parte trabalhosa, por isso o apoio do professor é necessário, acreditamos que a parte mais importante da preparação do "ambiente" são os comandos setados para criar de maneira correta o django:    
-###  _INICIANDO O AMBIENTE VIRTUAL_ 🔧
+###  _INICIANDO O AMBIENTE VIRTUAL_ (no terminal) 🔧
 ```
 python -m venv venv
 ```
@@ -39,14 +39,14 @@ cd "nome do projeto"
 ```
 - Criando a aplicação
 ```
-python manage.py startapp "outro nome para projeto"
+python manage.py startapp "nome da app"
 ```
 - Rodando a aplicação
 ```
 python manage.py runserver
 ```
 ___
-## INICIANDO UM PROJETO DJANGO
+## INICIANDO UM PROJETO DJANGO (no terminal)
 1. Executar o comando para iniciar um projeto
 ```
 django-admin startproject teste01
