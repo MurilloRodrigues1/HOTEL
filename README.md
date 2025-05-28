@@ -72,5 +72,5 @@ _Demos continuidade à parte principal do projeto, ainda com o apoio do professo
 ___
 ## 28/05 🗒️
 _Prosseguimos o projeto, pórem agora nao temos o apoio do professor, porque chegamos na parte que precisamos seguir sem a ajuda do professor, a ideia hoje é:_
-- Terminar a parte de adicionar colaborador
+- Terminar a parte de adicionar colaborador ✅
 - Adicionar quartos no sistema
