@@ -24,7 +24,7 @@ ___
 ###  _INICIANDO O AMBIENTE VIRTUAL_ (no terminal) 🔧
 
 _Criar o ambiente virtual pelo terminal_
-_Ctrl + Shift +_
+_Ctrl + Shift + "_
 ```
 python -m venv venv
 ```
