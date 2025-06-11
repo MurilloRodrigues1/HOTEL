@@ -73,12 +73,15 @@ ___
 ## 28/05 🗒️
 _Prosseguimos o projeto, pórem agora nao temos o apoio do professor, porque chegamos na parte que precisamos seguir sem a ajuda do professor, a ideia hoje é:_
 - Terminar a parte de adicionar colaborador ✅
-- Adicionar quartos no sistema
+- Adicionar quartos no sistema ✅
 
 ## 28/05 🗒️
 _Neste dia, demos continuidade ao que já havíamos iniciado anteriormente. Adiantamos algumas etapas em casa, o que nos ajudou a ganhar tempo quando chegamos na sala. Isso otimizou nosso trabalho e nos deu mais flexibilidade durante o encontro presencial.
 Trabalhamos na funcionalidade de listagem dos quartos, que não conseguimos finalizar durante a aula no Senai, e também concluímos a parte de reservas. Agora estamos bem próximos de finalizar tudo.
 Além disso, ajustamos a interface do site e alteramos as cores, deixando o visual mais personalizado e com a nossa identidade_
 
+
+## 11/06 🗒️
+_Hoje nós chegamos com o projeto ja "finalizado" a unica parte pendente é uma parte das reservas com as datas de liberação dos quartos, os que estão disponíveis ou não, acreditamos que ainda hoje antes do fim do dia, assim iremos mostrar e finalizar mais um projeto._
 
 
